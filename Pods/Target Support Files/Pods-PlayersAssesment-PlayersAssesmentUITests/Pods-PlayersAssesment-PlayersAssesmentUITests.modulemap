@@ -1,0 +1,6 @@
+framework module Pods_PlayersAssesment_PlayersAssesmentUITests {
+  umbrella header "Pods-PlayersAssesment-PlayersAssesmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

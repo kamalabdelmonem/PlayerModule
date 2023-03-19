@@ -1,0 +1,6 @@
+framework module Pods_PlayersAssesment {
+  umbrella header "Pods-PlayersAssesment-umbrella.h"
+
+  export *
+  module * { export * }
+}
